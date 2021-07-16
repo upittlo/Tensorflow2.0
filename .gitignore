@@ -1,4 +1,5 @@
 
 
-models
-traffic
+models/
+traffic/
+training_checkpoints/
