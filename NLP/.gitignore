@@ -2,5 +2,8 @@
 
 aclImdb/*
 imdb_bert/*
+one_step/*
+training_checkpoints/*
+model.png
 
 
